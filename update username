@@ -1,3 +1,6 @@
+# This is for each user who does not working with the root user Access! This is only for update the vps server. 
+# Dont use this for your wallets, where you have coins!!!! 
+
 su YOURUSERNAME
 sudo ozeety-cli stop
 sudo rm -R -f ozeetyd
