@@ -1,4 +1,5 @@
 # UPDATE YOUR OZEETY NODE!
+login on your server. If you use root copy into putty! 
 
 ```bash
 sudo apt-get install unzip
