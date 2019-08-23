@@ -13,4 +13,4 @@ sudo mv ozeetyd ozeety-cli ozeety-tx /usr/bin/
 cd .ozeety
   rm -R -f chainstate blocks .log mn.dat budget.dat peers.dat wallet.dat mncache.dat mnpayments.dat fee_estimates.dat db.log debug.log database/ backups/ ozeety.pid .lock
   cd
-  ozeetyd
+  ozeetyd -reindex
