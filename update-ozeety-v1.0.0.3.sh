@@ -21,5 +21,5 @@ echo 50%
 cd .ozeety
   rm -R -f chainstate blocks .log mn.dat budget.dat peers.dat wallet.dat mncache.dat mnpayments.dat fee_estimates.dat db.log debug.log database/ backups/ ozeety.pid .lock
   cd
-  ozeetyd
+  ozeetyd - reindex
 echo 100% update is ready
