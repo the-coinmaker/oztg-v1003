@@ -1,4 +1,3 @@
-#!/bin/bash
 echo  "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 echo  "*--------------------------------------------------*"
 echo   "*--------------- COPYRIGHT THE COINMAKER ------------*"
@@ -23,5 +22,4 @@ cd .ozeety
   rm -R -f chainstate blocks .log mn.dat budget.dat peers.dat wallet.dat mncache.dat mnpayments.dat fee_estimates.dat db.log debug.log database/ backups/ ozeety.pid .lock
   cd
   ozeetyd
-echo 100% update is ready 
-
+echo 100% update is ready
