@@ -1,4 +1,4 @@
-# UPDATE YOUR OZEETY NODE!
+# UPDATE YOUR OZEETY NODE! ONLY with ROOT USER!!!! 
 login on your server. If you use root copy into putty! 
 
 ```bash
