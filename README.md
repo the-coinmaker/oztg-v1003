@@ -5,7 +5,7 @@ login on your server. If you use root copy into putty!
 sudo apt-get install unzip
 ```
 ```bash
-sudo wget wget https://github.com/the-coinmaker/oztg-v1003/archive/master.zip
+sudo wget https://github.com/the-coinmaker/oztg-v1003/archive/master.zip
 ```
 ```bash
 sudo unzip master.zip
